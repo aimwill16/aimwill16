@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Willian</h1>
-<h3 align="center">Estudante e futuramente desenvolvedor back-end!.</h3>
+<h3 align="center">Training to be a Back End Developer</h3>
 
 <h4 align="left"> Sou estudante de Engenharia da Computação que adora hardware e aprendeu a amar software. Tenho conhecimentos em C/C#/HTML e CSS, e estou estudando atualmente JAVA e suas tecnologias.</h4>
 
